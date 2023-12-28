@@ -1,2 +1,2 @@
 # ProjekMagangNawang
-Ini hanya latihan repository
+Ini hanya latihan repository yang sewaktu waktu bisa ilang...
